@@ -13,3 +13,5 @@ End To End and Unit Testing are two different things.
 Unit testing involves checking for the correct output from certain functions.
 
 End to End testing involves making sure that the entire flow of an application works.
+
+Pytest is a popular python testing framework.
