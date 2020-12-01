@@ -8,7 +8,7 @@
 
  Once you have a testing suite in place, you should be able to avoid breaking your code by running the tests. If you additions don't pass all the tests, you're most likely good.
 
-End To End and Unite Testing are two different things.
+End To End and Unit Testing are two different things.
 
 Unit testing involves checking for the correct output from certain functions.
 
